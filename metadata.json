@@ -1,0 +1,6 @@
+{
+  "name": "SHAYAK-AI",
+  "description": "Cognitive & Memory Support Platform for Elderly Dementia Patients",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
